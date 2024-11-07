@@ -65,7 +65,7 @@
     <!-- [C-CDA R2.1] US Realm Header (V3) -->
     <templateId root="2.16.840.1.113883.10.20.22.1.1" extension="2015-08-01" />
     <!-- [eICR R2 STU3] Initial Public Health Case Report Document (eICR) (V5) -->
-    <templateId root="2.16.840.1.113883.10.20.15.2" extension="2022-05-02" />
+    <templateId root="2.16.840.1.113883.10.20.15.2" extension="2022-05-01" />
     <!-- Globally unique document ID (extension) is scoped by vendor/software -->
     <id root="2.16.840.1.113883.9.9.9.9.9" extension="db734647-fc99-424c-a864-7e3cda82e704" />
     <!-- Document Code -->
